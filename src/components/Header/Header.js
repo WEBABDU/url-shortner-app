@@ -9,7 +9,7 @@ import { AnimatePresence, motion } from "framer-motion";
 const HeaderContent = styled.header`
   display: flex;
   align-items: center;
-  padding: 2rem 2rem;
+  padding: 2rem 2rem !important;
 
   .logo {
     margin-right: 2rem;
